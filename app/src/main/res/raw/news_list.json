@@ -1,0 +1,1323 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2015 The New York Times Company. All Rights Reserved.",
+  "section": "technology",
+  "last_updated": "2015-08-18T10:15:06-05:00",
+  "num_results": 24,
+  "results": [
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title": "Work Policies May Be Kinder, but Brutal Competition Isn’t",
+      "abstract": "Top-tier employers may be changing their official policies in a nod to work-life balance, but brutal competition remains an inescapable component of workers’ daily lives.",
+      "url": "http://www.nytimes.com/2015/08/18/business/work-policies-may-be-kinder-but-brutal-competition-isnt.html",
+      "byline": "By NOAM SCHEIBER",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T22:10:02-5:00",
+      "created_date": "2015-08-17T22:10:04-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Executives and Management (Theory)",
+        "Paid Time Off",
+        "Legal Profession",
+        "Banking and Financial Institutions",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Cravath Swaine & Moore"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": [
+        "Silicon Valley (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18EMPLOY/18EMPLOY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People eating at the Brave Horse Tavern on the Amazon campus in Seattle in June.",
+          "copyright": "Matthew Ryan Williams for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18EMPLOY/18EMPLOY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People eating at the Brave Horse Tavern on the Amazon campus in Seattle in June.",
+          "copyright": "Matthew Ryan Williams for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18EMPLOY/18EMPLOY-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People eating at the Brave Horse Tavern on the Amazon campus in Seattle in June.",
+          "copyright": "Matthew Ryan Williams for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18EMPLOY/18EMPLOY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People eating at the Brave Horse Tavern on the Amazon campus in Seattle in June.",
+          "copyright": "Matthew Ryan Williams for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Depiction of Amazon Stirs a Debate About Work Culture",
+      "abstract": "Details of working conditions at Amazon led to a response from employees, relatives and friends.",
+      "url": "http://www.nytimes.com/2015/08/19/technology/amazon-workplace-reactions-comments.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2015-08-18T07:35:33-5:00",
+      "created_date": "2015-08-18T07:35:35-5:00",
+      "published_date": "2015-08-19T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-AUYG/13amazon-selects-slide-AUYG-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon is building new offices in Seattle and, in about three years, will have enough space for about 50,000 employees.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-AUYG/13amazon-selects-slide-AUYG-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon is building new offices in Seattle and, in about three years, will have enough space for about 50,000 employees.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-AUYG/13amazon-selects-slide-AUYG-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon is building new offices in Seattle and, in about three years, will have enough space for about 50,000 employees.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-AUYG/13amazon-selects-slide-AUYG-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon is building new offices in Seattle and, in about three years, will have enough space for about 50,000 employees.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Jeff Bezos and Amazon Employees Join Debate Over Its Culture",
+      "abstract": "The company’s chief told employees that he didn’t recognize the “soulless, dystopian workplace” that he said was depicted in a New York Times article.",
+      "url": "http://www.nytimes.com/2015/08/18/technology/amazon-bezos-workplace-management-practices.html",
+      "byline": "By DAVID STREITFELD and JODI KANTOR",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T20:48:16-5:00",
+      "created_date": "2015-08-17T09:11:16-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/nytnow/18amazon/18amazon-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Bezos, chief executive of Amazon, encouraged employees to report “callous” management practices.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/nytnow/18amazon/18amazon-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Bezos, chief executive of Amazon, encouraged employees to report “callous” management practices.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/nytnow/18amazon/18amazon-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Bezos, chief executive of Amazon, encouraged employees to report “callous” management practices.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/nytnow/18amazon/18amazon-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Bezos, chief executive of Amazon, encouraged employees to report “callous” management practices.",
+          "copyright": "David Ryder/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title": "Inside Amazon: Wrestling Big Ideas in a Bruising Workplace",
+      "abstract": "The company is conducting an experiment in how far it can push white-collar workers to get them to achieve its ever-expanding ambitions.",
+      "url": "http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html",
+      "byline": "By JODI KANTOR and DAVID STREITFELD",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T21:43:20-5:00",
+      "created_date": "2015-08-15T08:00:05-5:00",
+      "published_date": "2015-08-16T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Labor and Jobs",
+        "Executives and Management (Theory)",
+        "Workplace Environment"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-ZSZ3/13amazon-selects-slide-ZSZ3-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon employees on a lunch break. Many employees say they spend hours working at home most nights or on weekends.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-ZSZ3/13amazon-selects-slide-ZSZ3-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon employees on a lunch break. Many employees say they spend hours working at home most nights or on weekends.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-ZSZ3/13amazon-selects-slide-ZSZ3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon employees on a lunch break. Many employees say they spend hours working at home most nights or on weekends.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/business/13amazon-selects-slide-ZSZ3/13amazon-selects-slide-ZSZ3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon employees on a lunch break. Many employees say they spend hours working at home most nights or on weekends.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Data-Crunching Is Coming to Help Your Boss Manage Your Time",
+      "abstract": "Employers of all types are using a wide range of technological tools to monitor workers’ efforts and motivate them.",
+      "url": "http://www.nytimes.com/2015/08/18/technology/data-crunching-is-coming-to-help-your-boss-manage-your-time.html",
+      "byline": "By DAVID STREITFELD",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T05:00:05-5:00",
+      "created_date": "2015-08-17T05:00:06-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Productivity",
+        "Data-Mining and Database Marketing",
+        "Human Resources",
+        "Workplace Environment",
+        "Executives and Management (Theory)"
+      ],
+      "org_facet": [
+        "BetterWorks Inc",
+        "Workday Inc",
+        "Timesheets.com"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18workplace-web/18workplace-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myrna Arias, a saleswoman for Intermex, a money-transfer company, has claimed in a lawsuit that she was required to download an app on her cellphone that tracked her whereabouts 24 hours a day.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18workplace-web/18workplace-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myrna Arias, a saleswoman for Intermex, a money-transfer company, has claimed in a lawsuit that she was required to download an app on her cellphone that tracked her whereabouts 24 hours a day.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18workplace-web/18workplace-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myrna Arias, a saleswoman for Intermex, a money-transfer company, has claimed in a lawsuit that she was required to download an app on her cellphone that tracked her whereabouts 24 hours a day.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18workplace-web/18workplace-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myrna Arias, a saleswoman for Intermex, a money-transfer company, has claimed in a lawsuit that she was required to download an app on her cellphone that tracked her whereabouts 24 hours a day.",
+          "copyright": "Monica Almeida/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Amazon’s Workplace Culture Continues to Spur Online Debates",
+      "abstract": "The online argument over Amazon’s white-collar workplace gathered steam as employees and ex-employees recounted their own experiences at the retailer.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/18/daily-report-amazons-workplace-culture-continues-to-spur-online-debates/",
+      "byline": "By PUI-WING TAM",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-18T09:27:06-5:00",
+      "created_date": "2015-08-18T09:29:35-5:00",
+      "published_date": "2015-08-18T13:27:06-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 129,
+          "width": 129,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Peach, a Lunch Delivery Service, Plans Expansion",
+      "abstract": "Peach, which has secured a $8 million investment, uses a somewhat different model than PostMates and GrubHub.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/18/peach-lunch-delivery-service-plans-expansion/",
+      "byline": "By STEPHANIE STROM",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-18T10:09:36-5:00",
+      "created_date": "2015-08-18T07:31:33-5:00",
+      "published_date": "2015-08-18T11:30:56-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": [
+        "Peach"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "U.S. Transfer of Internet Oversight Is Delayed",
+      "abstract": "The Commerce Department said it would delay by at least a year its plan to cede authority over the global address system for the web.",
+      "url": "http://www.nytimes.com/2015/08/18/technology/us-transfer-of-internet-oversight-is-delayed.html",
+      "byline": "By NATASHA SINGER",
+      "item_type": "Article",
+      "updated_date": "2015-08-18T06:22:35-5:00",
+      "created_date": "2015-08-18T06:22:37-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Internet Corp for Assigned Names and Numbers",
+        "Commerce Department"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Accomable: Lessons From an Inspiring Start-Up",
+      "abstract": "A new start-up Accomable seeks to be the “Airbnb for disabled people and anyone with mobility difficulties.”",
+      "url": "http://bits.blogs.nytimes.com/2015/08/17/accomable-lessons-from-an-inspiring-start-up/",
+      "byline": "By STEVE LOHR",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-18T09:44:36-5:00",
+      "created_date": "2015-08-17T12:28:06-5:00",
+      "published_date": "2015-08-17T16:26:19-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": [
+        "coding boot camp"
+      ],
+      "org_facet": [
+        "Accomable"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/technology/Bits-Accomable-1/Bits-Accomable-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Srin Madipalli at Sandy Neck Beach on Cape Cod. Mr. Madipalli, who has spinal muscular atrophy, co-founded Accomable, which he described as an Airbnb for those with mobility problems.",
+          "copyright": "Filipe Roldao"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/technology/Bits-Accomable-1/Bits-Accomable-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Srin Madipalli at Sandy Neck Beach on Cape Cod. Mr. Madipalli, who has spinal muscular atrophy, co-founded Accomable, which he described as an Airbnb for those with mobility problems.",
+          "copyright": "Filipe Roldao"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/technology/Bits-Accomable-1/Bits-Accomable-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Srin Madipalli at Sandy Neck Beach on Cape Cod. Mr. Madipalli, who has spinal muscular atrophy, co-founded Accomable, which he described as an Airbnb for those with mobility problems.",
+          "copyright": "Filipe Roldao"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/technology/Bits-Accomable-1/Bits-Accomable-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Srin Madipalli at Sandy Neck Beach on Cape Cod. Mr. Madipalli, who has spinal muscular atrophy, co-founded Accomable, which he described as an Airbnb for those with mobility problems.",
+          "copyright": "Filipe Roldao"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Where to See the Inequality Gap Wrought by the Tech Boom",
+      "abstract": "Perhaps nowhere is the inequality gap created by the latest technology boom as evident as in San Francisco’s Tenderloin neighborhood, a longtime low-income area that is now increasingly populated by tech start-ups.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/17/daily-report-where-to-see-the-inequality-gap-wrought-by-the-tech-boom/",
+      "byline": "By PUI-WING TAM",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-17T09:49:52-5:00",
+      "created_date": "2015-08-17T09:50:33-5:00",
+      "published_date": "2015-08-17T13:49:52-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 129,
+          "width": 129,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Blending Tech Workers and Locals in San Francisco’s Troubled Mid-Market",
+      "abstract": "Tech giants like Twitter and Spotify have descended on one of the poorest neighborhoods in the Bay Area, bringing prosperity for some and upheaval for others.",
+      "url": "http://www.nytimes.com/2015/08/17/technology/blending-tech-workers-and-locals-in-san-franciscos-troubled-mid-market.html",
+      "byline": "By QUENTIN HARDY",
+      "item_type": "Article",
+      "updated_date": "2015-08-16T00:50:48-5:00",
+      "created_date": "2015-08-16T00:50:50-5:00",
+      "published_date": "2015-08-17T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Entrepreneurship",
+        "Income Inequality",
+        "Poverty",
+        "Homeless Persons",
+        "Labor and Jobs",
+        "Historic Buildings and Sites",
+        "Real Estate and Housing (Residential)",
+        "Income"
+      ],
+      "org_facet": [
+        "Twitter"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "San Francisco (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/business/17TENDERLOIN-web5/17TENDERLOIN-web5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the Tenderloin’s longtime residents are learning newfound wealth for some does not mean newfound prosperity — or even livability — for everyone.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/business/17TENDERLOIN-web5/17TENDERLOIN-web5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the Tenderloin’s longtime residents are learning newfound wealth for some does not mean newfound prosperity — or even livability — for everyone.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/business/17TENDERLOIN-web5/17TENDERLOIN-web5-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the Tenderloin’s longtime residents are learning newfound wealth for some does not mean newfound prosperity — or even livability — for everyone.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/17/business/17TENDERLOIN-web5/17TENDERLOIN-web5-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the Tenderloin’s longtime residents are learning newfound wealth for some does not mean newfound prosperity — or even livability — for everyone.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Farhad and Mike’s Week in Tech: Google and Tinder Shake Up the Internet",
+      "abstract": "Google reorganized under a new name, Alphabet, and Tinder blew up on Twitter in response to an article in Vanity Fair.",
+      "url": "http://www.nytimes.com/2015/08/16/technology/farhad-and-mikes-week-in-tech-google-and-tinder-shake-up-the-internet.html",
+      "byline": "By FARHAD MANJOO and MIKE ISAAC",
+      "item_type": "Article",
+      "updated_date": "2015-08-15T09:00:22-5:00",
+      "created_date": "2015-08-15T09:00:23-5:00",
+      "published_date": "2015-08-16T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Online Dating",
+        "Social Media",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Tinder (Mobile App)",
+        "Google Inc",
+        "Alphabet Inc"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/business/16technewsletter-web1/16technewsletter-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tinder is, in some ways, simply another marketplace facilitated by the Internet, just as we’ve had the eBays and Craigslists of the world.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/business/16technewsletter-web1/16technewsletter-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tinder is, in some ways, simply another marketplace facilitated by the Internet, just as we’ve had the eBays and Craigslists of the world.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/business/16technewsletter-web1/16technewsletter-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tinder is, in some ways, simply another marketplace facilitated by the Internet, just as we’ve had the eBays and Craigslists of the world.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/16/business/16technewsletter-web1/16technewsletter-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tinder is, in some ways, simply another marketplace facilitated by the Internet, just as we’ve had the eBays and Craigslists of the world.",
+          "copyright": "Richard Perry/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Google Stays in the News With Chromebooks and Antitrust Issues",
+      "abstract": "Google unveiled a new version of its Chrome operating system, along with Chromebook computing devices made by Dell. It’s been busy week for the company that’s reinventing itself as Alphabet while dealing with antitrust concerns in Europe.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/14/daily-report-google-stays-in-the-news-with-chromebooks-and-antitrust-issues/",
+      "byline": "By JIM KERSTETTER",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-14T09:42:04-5:00",
+      "created_date": "2015-08-14T09:20:33-5:00",
+      "published_date": "2015-08-14T13:19:07-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 129,
+          "width": 129,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "A Conversation With Glenn Lurie, Chief of AT&T Mobility",
+      "abstract": "AT&T’s chief of mobile, Glenn Lurie, discusses easy-to-understand phone plans and the company’s acquisition of DirecTV.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/14/a-conversation-with-glenn-lurie-chief-of-att-mobility/",
+      "byline": "By BRIAN X. CHEN",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-15T13:55:09-5:00",
+      "created_date": "2015-08-14T08:01:40-5:00",
+      "published_date": "2015-08-14T12:00:04-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2014/12/26/technology/26bits-lurie/26bits-lurie-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Glen Lurie helped negotiate the deal that temporarily brought Apple&rsquo;s first iPhone exclusively to AT&amp;T.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/26/technology/26bits-lurie/26bits-lurie-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Glen Lurie helped negotiate the deal that temporarily brought Apple&rsquo;s first iPhone exclusively to AT&amp;T.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/26/technology/26bits-lurie/26bits-lurie-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Glen Lurie helped negotiate the deal that temporarily brought Apple&rsquo;s first iPhone exclusively to AT&amp;T.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/26/technology/26bits-lurie/26bits-lurie-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Glen Lurie helped negotiate the deal that temporarily brought Apple&rsquo;s first iPhone exclusively to AT&amp;T.",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Google Unveils New Chrome Operating System for Business Customers",
+      "abstract": "Google and Dell show off the next version of Chromebooks. They look nice, but what really matters is changes in the back end to get older applications online.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/13/google-unveils-new-chrome-operating-system-for-business-customers/",
+      "byline": "By QUENTIN HARDY",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-13T16:21:28-5:00",
+      "created_date": "2015-08-13T16:23:35-5:00",
+      "published_date": "2015-08-13T20:21:28-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/13bits-dell/13bits-dell-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dell introduced new Chromebooks and management software.",
+          "copyright": "Google"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/13bits-dell/13bits-dell-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dell introduced new Chromebooks and management software.",
+          "copyright": "Google"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/13bits-dell/13bits-dell-articleInline.jpg",
+          "format": "Normal",
+          "height": 109,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dell introduced new Chromebooks and management software.",
+          "copyright": "Google"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/13bits-dell/13bits-dell-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dell introduced new Chromebooks and management software.",
+          "copyright": "Google"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "title": "New School Technology for Class and the Quad",
+      "abstract": "New devices include some to help students with note-taking, navigating a laptop and data storage. But first, there’s a way to dispose of old gadgets.",
+      "url": "http://www.nytimes.com/2015/08/13/technology/personaltech/new-school-technology-for-class-and-the-quad.html",
+      "byline": "By GREGORY SCHMIDT",
+      "item_type": "Article",
+      "updated_date": "2015-08-12T13:53:19-5:00",
+      "created_date": "2015-08-12T13:53:21-5:00",
+      "published_date": "2015-08-13T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Electronics",
+        "Headphones and Headsets",
+        "Wearable Computing",
+        "Data Storage"
+      ],
+      "org_facet": [
+        "Gazelle.com",
+        "Sennheiser",
+        "Adonit Creative Inc",
+        "Logitech International SA",
+        "Fitbit",
+        "SanDisk Corporation"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13gadgetwise-all/13gadgetwise-all-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campus-friendly devices for students and teachers.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13gadgetwise-all/13gadgetwise-all-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campus-friendly devices for students and teachers.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13gadgetwise-all/13gadgetwise-all-articleInline.jpg",
+          "format": "Normal",
+          "height": 253,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campus-friendly devices for students and teachers.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13gadgetwise-all/13gadgetwise-all-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campus-friendly devices for students and teachers.",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "title": "Video Feature: Inexpensive Apps for Entrepreneurs and Start-Ups",
+      "abstract": "These digital tools — many of which are free — can improve efficiency by helping your team perform a variety of functions, like filing expense reports, designing logos and enacting ideas.",
+      "url": "http://www.nytimes.com/2015/08/13/technology/personaltech/video-feature-inexpensive-apps-for-entrepreneurs-and-start-ups.html",
+      "byline": "By KIT EATON",
+      "item_type": "Article",
+      "updated_date": "2015-08-12T15:18:31-5:00",
+      "created_date": "2015-08-12T15:18:33-5:00",
+      "published_date": "2015-08-13T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Mobile Applications",
+        "Start-ups"
+      ],
+      "org_facet": [
+        "Slack Technologies Inc",
+        "Bestie (PinGuo Inc)",
+        "LogoScopic (RoadRocks LLC)",
+        "Trello Inc",
+        "Expensify Inc"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Nebia, a Shower Head Start-Up, Receives Funding From Timothy Cook of Apple",
+      "abstract": "Nebia, a start-up that has developed a water-conserving shower head, already has funding from Silicon Valley’s top brass, including Apple chief executive Timothy D. Cook.",
+      "url": "http://bits.blogs.nytimes.com/2015/08/11/nebia-a-shower-head-start-up-gets-funded-by-apple-ceo-cook/",
+      "byline": "By BRIAN X. CHEN",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-13T12:21:46-5:00",
+      "created_date": "2015-08-11T05:02:03-5:00",
+      "published_date": "2015-08-11T09:00:59-5:00",
+      "material_type_facet": "News",
+      "kicker": "Bits",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/technology/10bits-nebia/10bits-nebia-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nebia has tested prototypes of its shower head on the campuses of Apple, Google and Stanford University.",
+          "copyright": "Nebia"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/technology/10bits-nebia/10bits-nebia-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nebia has tested prototypes of its shower head on the campuses of Apple, Google and Stanford University.",
+          "copyright": "Nebia"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/technology/10bits-nebia/10bits-nebia-articleInline-v2.png",
+          "format": "Normal",
+          "height": 200,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nebia has tested prototypes of its shower head on the campuses of Apple, Google and Stanford University.",
+          "copyright": "Nebia"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/technology/10bits-nebia/10bits-nebia-mediumThreeByTwo210-v2.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nebia has tested prototypes of its shower head on the campuses of Apple, Google and Stanford University.",
+          "copyright": "Nebia"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "title": "Stopping the iPhone Step Counter",
+      "abstract": "Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",
+      "url": "http://www.nytimes.com/2015/08/13/technology/personaltech/stopping-the-iphone-step-counter.html",
+      "byline": "By J. D. BIERSDORFER",
+      "item_type": "Article",
+      "updated_date": "2015-08-12T09:26:16-5:00",
+      "created_date": "2015-08-12T09:26:19-5:00",
+      "published_date": "2015-08-13T04:00:00-5:00",
+      "material_type_facet": "Question",
+      "kicker": "",
+      "des_facet": [
+        "Computer Security",
+        "iPhone",
+        "Computers and the Internet",
+        "Software",
+        "Desktop Computers",
+        "Identity Theft",
+        "Cyberattacks and Hackers",
+        "Frauds and Swindling",
+        "Privacy"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Apple Inc",
+        "Microsoft Corp"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13askk-web/13askk-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Microsoft&apos;s Safety &amp; Security Center has information on how to protect your computer and personal information.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13askk-web/13askk-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Microsoft&apos;s Safety &amp; Security Center has information on how to protect your computer and personal information.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13askk-web/13askk-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Microsoft&apos;s Safety &amp; Security Center has information on how to protect your computer and personal information.",
+          "copyright": ""
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/13/technology/personaltech/13askk-web/13askk-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Microsoft&apos;s Safety &amp; Security Center has information on how to protect your computer and personal information.",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Business Day",
+      "subsection": "DealBook",
+      "title": "Helix, a New Gene Sequencing Venture, Aims to Create Digital Hub for Genomics",
+      "abstract": "Illumina and two investment firms are spending $100 million on Helix, which has been in the works for more than a year.",
+      "url": "http://www.nytimes.com/2015/08/18/business/dealbook/helix-a-new-gene-sequencing-venture-aims-to-create-digital-hub-for-genomics.html",
+      "byline": "By MICHAEL J. de la MERCED",
+      "item_type": "Article",
+      "updated_date": "2015-08-18T03:15:00-5:00",
+      "created_date": "2015-08-18T03:15:00-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Genetics and Heredity",
+        "DNA (Deoxyribonucleic Acid)"
+      ],
+      "org_facet": [
+        "Illumina Inc",
+        "Helix"
+      ],
+      "per_facet": [
+        "Jay Flatley"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title": "Amazon Chief’s Message to Employees",
+      "abstract": "In an email to all Amazon employees, Jeff Bezos wrote, “The article doesn’t describe the Amazon I know or the caring Amazonians I work with every day.”",
+      "url": "http://www.nytimes.com/2015/08/18/business/amazon-chiefs-message-to-employees.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T20:45:21-5:00",
+      "created_date": "2015-08-17T20:45:25-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Letters"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Business Day",
+      "subsection": "DealBook",
+      "title": "Why Amazon May Take a Page From Walmart’s Labor Playbook",
+      "abstract": "The perception of Amazon as a difficult place to work could force the online retailer to initiate reforms, as Walmart has done with its own billion-dollar program.",
+      "url": "http://www.nytimes.com/2015/08/18/business/dealbook/why-amazon-may-take-a-page-from-walmarts-labor-playbook.html",
+      "byline": "By ROB COX",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T18:38:02-5:00",
+      "created_date": "2015-08-17T18:38:04-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Shopping and Retail",
+        "Minimum Wage",
+        "Labor and Jobs"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Walmart Stores Inc",
+        "New York Times"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Business Day",
+      "subsection": "DealBook",
+      "title": "Hacking Case Raises Question on Securities Fraud",
+      "abstract": "Stealing corporate information from computers to make trades certainly looks like insider trading, but it can depend on court jurisdiction.",
+      "url": "http://www.nytimes.com/2015/08/18/business/dealbook/hacking-case-raises-question-on-securities-fraud.html",
+      "byline": "By PETER J. HENNING",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T13:59:23-5:00",
+      "created_date": "2015-08-17T13:59:26-5:00",
+      "published_date": "2015-08-18T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Cyberattacks and Hackers",
+        "Securities and Commodities Violations",
+        "Insider Trading"
+      ],
+      "org_facet": [
+        "Securities and Exchange Commission",
+        "Justice Department"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18db-whitecollar-web/18db-whitecollar-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeh Johnson, the Secretary of Homeland Security, left, and Paul J. Fishman, United States Attorney for the District of New Jersey, center, after a news conference in Newark on Tuesday.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18db-whitecollar-web/18db-whitecollar-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeh Johnson, the Secretary of Homeland Security, left, and Paul J. Fishman, United States Attorney for the District of New Jersey, center, after a news conference in Newark on Tuesday.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18db-whitecollar-web/18db-whitecollar-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeh Johnson, the Secretary of Homeland Security, left, and Paul J. Fishman, United States Attorney for the District of New Jersey, center, after a news conference in Newark on Tuesday.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/18/business/18db-whitecollar-web/18db-whitecollar-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeh Johnson, the Secretary of Homeland Security, left, and Paul J. Fishman, United States Attorney for the District of New Jersey, center, after a news conference in Newark on Tuesday.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Scaling China’s Great Firewall",
+      "abstract": "The government hopes to foster an Internet society that doesn't concern itself with politics or current affairs.",
+      "url": "http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html",
+      "byline": "By MURONG XUECUN",
+      "item_type": "Article",
+      "updated_date": "2015-08-17T07:17:35-5:00",
+      "created_date": "2015-08-17T07:17:38-5:00",
+      "published_date": "2015-08-18T16:30:00-5:00",
+      "material_type_facet": "Op-Ed",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Censorship"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2014/12/01/opinion/murong-xuecun-contrib/murong-xuecun-contrib-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Belinda Mason"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/01/opinion/murong-xuecun-contrib/murong-xuecun-contrib-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Belinda Mason"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/01/opinion/murong-xuecun-contrib/murong-xuecun-contrib-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Belinda Mason"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2014/12/01/opinion/murong-xuecun-contrib/murong-xuecun-contrib-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Belinda Mason"
+        }
+      ]
+    }
+  ]
+}

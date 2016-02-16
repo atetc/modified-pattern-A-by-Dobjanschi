@@ -1,4 +1,4 @@
-package modified.dobjanschi.a.pattern;
+package modified.dobjanschi.a.pattern.callback;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -8,10 +8,10 @@ import android.os.ResultReceiver;
 /**
  * @author Rustem
  */
-public class BgProcessingResultReceiver extends ResultReceiver {
+public class IntentServiceResultReceiver extends ResultReceiver {
     private Receiver mReceiver;
 
-    public BgProcessingResultReceiver(Handler handler) {
+    public IntentServiceResultReceiver(Handler handler) {
         super(handler);
     }
 

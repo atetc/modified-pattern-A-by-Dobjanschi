@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity">
+
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -20,8 +21,21 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".activity.LoadedImageActivity"/>
+
+        <activity android:name=".activity.LoadedContentActivity"/>
+
         <service
-            android:name=".BgProcessingIntentService"
+            android:name=".service.MainIntentService"
+            android:exported="false" />
+
+        <service
+            android:name=".service.MainService"
+            android:exported="false" />
+
+        <provider
+            android:name=".database.DatabaseProvider"
+            android:authorities="ru.itis.lectures.db"
             android:exported="false" />
     </application>
 

@@ -5,20 +5,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <HorizontalScrollView
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <ScrollView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
 
-            <ImageView
-                android:id="@+id/image_view"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                tools:ignore="ContentDescription"/>
-        </ScrollView>
-    </HorizontalScrollView>
+        <Button
+            android:id="@+id/intent_service_button"
+            android:layout_above="@+id/service_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/intent_service"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/service_button"
+            android:layout_marginTop="@dimen/margin"
+            android:layout_centerInParent="true"
+            android:text="@string/service"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
 
     <FrameLayout
         android:id="@+id/throbber_layout"
@@ -32,27 +39,4 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
     </FrameLayout>
-
-    <RelativeLayout
-        android:id="@+id/error_layout"
-        android:visibility="gone"
-        android:background="@color/white"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <TextView
-            android:id="@+id/error_text_view"
-            android:layout_centerInParent="true"
-            android:text="@string/error"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
-        <Button
-            android:id="@+id/retry_button"
-            android:layout_centerHorizontal="true"
-            android:layout_below="@id/error_text_view"
-            android:text="@string/retry"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-    </RelativeLayout>
 </FrameLayout>

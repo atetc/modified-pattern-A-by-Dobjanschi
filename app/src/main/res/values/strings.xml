@@ -2,4 +2,6 @@
     <string name="app_name">Pattern A</string>
     <string name="error">Error</string>
     <string name="retry">Retry</string>
+    <string name="service">Service</string>
+    <string name="intent_service">Intent service</string>
 </resources>
