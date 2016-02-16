@@ -39,6 +39,7 @@ public class RequestAsyncTask extends AsyncTask<Void, Void, Void> {
         RequestItem requestItem = new RequestItem("request1");
         String json = loadResource();
         requestItem.setResponse(json);
+        RequestsTable.clear(mContext);
         RequestsTable.save(mContext, requestItem);
         mContext.getContentResolver().notifyChange(RequestsTable.URI, null);
         return null;

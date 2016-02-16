@@ -39,8 +39,10 @@ public class LoadedContentActivity extends AppCompatActivity {
 
         Cursor cursor = getContentResolver().query(RequestsTable.URI, null, null, null, null);
         if (cursor != null && cursor.moveToFirst()) {
-            String string = cursor.getString(cursor.getColumnIndex(RequestItemContract.Columns.RESPONSE));
-            textView.setText(string);
+            String json = cursor.getString(cursor.getColumnIndex(RequestItemContract.Columns.RESPONSE));
+            textView.setText(json);
+            cursor.close();
         }
+
     }
 }
