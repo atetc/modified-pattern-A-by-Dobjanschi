@@ -12,7 +12,7 @@ import java.util.List;
 import modified.dobjanschi.a.pattern.database.DatabaseUtils;
 import modified.dobjanschi.a.pattern.database.RequestItemContract;
 import modified.dobjanschi.a.pattern.database.SqliteHelper;
-import modified.dobjanschi.a.pattern.service.model.RequestItem;
+import modified.dobjanschi.a.pattern.network.model.RequestItem;
 
 /**
  * @author Rustem

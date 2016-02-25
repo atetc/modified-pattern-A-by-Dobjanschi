@@ -1,11 +1,9 @@
-package modified.dobjanschi.a.pattern.service;
+package modified.dobjanschi.a.pattern.network;
 
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
-import android.os.Handler;
 import android.os.IBinder;
-import android.os.Looper;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.widget.Toast;
@@ -20,6 +18,13 @@ public class MainService extends Service {
         context.startService(new Intent(context, MainService.class));
     }
 
+    @Override
+    public void onCreate() {
+        super.onCreate();
+
+        Toast.makeText(this, "Service created", Toast.LENGTH_SHORT).show();
+    }
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
@@ -28,14 +33,7 @@ public class MainService extends Service {
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
-        Handler handler = new Handler(Looper.getMainLooper());
-        handler.post(new Runnable() {
-
-            @Override
-            public void run() {
-                Toast.makeText(MainService.this, "Service started", Toast.LENGTH_SHORT).show();
-            }
-        });
+        Toast.makeText(MainService.this, "Service start command", Toast.LENGTH_SHORT).show();
 
         new RequestAsyncTask(this).execute();
 

@@ -1,4 +1,4 @@
-package modified.dobjanschi.a.pattern.service;
+package modified.dobjanschi.a.pattern.network;
 
 import android.content.Context;
 import android.os.AsyncTask;
@@ -14,7 +14,7 @@ import java.io.Writer;
 import modified.dobjanschi.a.pattern.R;
 import modified.dobjanschi.a.pattern.database.DatabaseUtils;
 import modified.dobjanschi.a.pattern.database.tables.RequestsTable;
-import modified.dobjanschi.a.pattern.service.model.RequestItem;
+import modified.dobjanschi.a.pattern.network.model.RequestItem;
 
 /**
  * @author Artur Vasilov
@@ -41,6 +41,7 @@ public class RequestAsyncTask extends AsyncTask<Void, Void, Void> {
         requestItem.setResponse(json);
         RequestsTable.clear(mContext);
         RequestsTable.save(mContext, requestItem);
+
         mContext.getContentResolver().notifyChange(RequestsTable.URI, null);
         return null;
     }

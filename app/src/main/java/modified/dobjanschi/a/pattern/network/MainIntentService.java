@@ -1,11 +1,10 @@
-package modified.dobjanschi.a.pattern.service;
+package modified.dobjanschi.a.pattern.network;
 
 import android.app.IntentService;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.ResultReceiver;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.squareup.picasso.Callback;

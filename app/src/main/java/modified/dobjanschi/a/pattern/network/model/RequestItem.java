@@ -1,4 +1,4 @@
-package modified.dobjanschi.a.pattern.service.model;
+package modified.dobjanschi.a.pattern.network.model;
 
 /**
  * @author Rustem

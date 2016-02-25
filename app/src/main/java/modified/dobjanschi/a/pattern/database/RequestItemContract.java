@@ -2,7 +2,7 @@ package modified.dobjanschi.a.pattern.database;
 
 import android.provider.BaseColumns;
 
-import modified.dobjanschi.a.pattern.service.model.RequestItem;
+import modified.dobjanschi.a.pattern.network.model.RequestItem;
 
 /**
  * @author Artur Vasilov
@@ -27,5 +27,4 @@ public class RequestItemContract {
         String DROP = "DROP TABLE IF EXISTS " + TABLE_NAME;
 
     }
-
 }
