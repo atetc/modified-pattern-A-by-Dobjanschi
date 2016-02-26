@@ -33,6 +33,10 @@
             android:name=".service.MainService"
             android:exported="false" />
 
+        <service
+            android:name=".service.ServiceWithRxJava"
+            android:exported="false" />
+
         <provider
             android:name=".database.DatabaseProvider"
             android:authorities="ru.itis.lectures.db"

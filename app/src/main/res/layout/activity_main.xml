@@ -25,6 +25,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
+        <Button
+            android:id="@+id/service_with_rxjava_button"
+            android:layout_below="@id/service_button"
+            android:layout_marginTop="@dimen/margin"
+            android:layout_centerInParent="true"
+            android:text="@string/service_with_rxjava"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
     </RelativeLayout>
 
     <FrameLayout
